@@ -1,0 +1,3 @@
+INFO:root:Task Bot Started
+INFO:root:Fetched IP: 14.194.211.106
+INFO:root:Email Summary Sent
